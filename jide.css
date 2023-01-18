@@ -1,0 +1,27 @@
+.First{
+background-color:#2DCDDF;
+height: 200px;
+width: 200px;
+border: solid 10px;
+padding: 20px;
+
+}
+
+.Second{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+   border: solid 20px;
+   margin-left: 260px;
+  
+
+}
+.Third{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    border: 10px;
+    margin-left: 500px;
+    
+}
+  
